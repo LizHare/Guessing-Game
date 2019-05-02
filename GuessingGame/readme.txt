@@ -29,3 +29,5 @@ The allows for the user to challenge themselves, and offline play.
 
 Also we show the user the manufacturer and product name to give more context about the
 product.
+
+This code was written for a code test over approximately 4 hours (with clean up/presentation/refactoring).
