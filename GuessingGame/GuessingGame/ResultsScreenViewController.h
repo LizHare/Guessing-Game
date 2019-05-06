@@ -2,8 +2,8 @@
 //  ResultsScreenViewController.h
 //  GuessingGame
 //
-//  Created by Bryan on 10/16/16.
-//  Copyright © 2016 bryan. All rights reserved.
+//  Created by Liz on 10/16/16.
+//  Copyright © 2016 Liz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
